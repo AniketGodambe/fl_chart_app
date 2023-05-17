@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## FlutterGraph - Visualize Array of Arrays with fl_chart
+## FlutterGraphApp - Visualize Array of Arrays with fl_chart for graph.
 
 ## Description:
 FlutterGraph is an innovative Flutter app designed to empower users in visualizing complex data sets using the versatile fl_chart library. With FlutterGraph, you can effortlessly plot and explore arrays of arrays on interactive graphs, enabling a comprehensive analysis of your data patterns.
